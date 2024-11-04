@@ -1,3 +1,6 @@
+# Basic Pentesting
+This is a machine that allows you to practise web app hacking and privilege escalation
+
 ```
 ┌──(yuu㉿kali)-[/mnt/shared/repos/TryHackMe-env/Day2]
 └─$ sudo nmap -sV -Pn -oN nmap.txt -v 10.10.78.106
