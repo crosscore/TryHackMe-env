@@ -12,7 +12,8 @@ PORT      STATE SERVICE  VERSION
 22/tcp    open  ssh      OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey:
 |   2048 73:92:8e:04:de:40:fb:9c:90:f9:cf:42:70:c8:45:a7 (RSA)
-|   256 6d:63:d6:b8:0a:67:fd:86:f1:22:30:2b:2d:27:1e:ff (ECDSA)
+|   256 6d:63:d6:b8:0a:67:fd:86:f1:22:30
+:2b:2d:27:1e:ff (ECDSA)
 |_  256 bd:08:97:79:63:0f:80:7c:7f:e8:50:dc:59:cf:39:5e (ED25519)
 111/tcp   open  rpcbind  2-4 (RPC #100000)
 | rpcinfo:
